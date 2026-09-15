@@ -36,4 +36,3 @@ if price is not None:
     print(f"Age: {age:>14}")
 if price is not None:
     print(f"Price: {price:>15.2f} SEK")
-
