@@ -13,15 +13,15 @@ for day in range(1, 8):
 average = total/7
 
 
-
-if average < 1:
-    performance = "Low"
-elif average == 1 or total/7 == 2:
-    performance = "Moderate"
-elif average > 2:
-    performance = "High"
-elif average < 0:
+if average < 0:
     performance = None
+elif average < 1:
+    performance = "Low"
+elif average <= 2:
+    performance = "Moderate"
+else average > 2:
+    performance = "High"
+
 
 
 #PROGRAM
