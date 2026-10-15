@@ -1,0 +1,3 @@
+Valid count: 3
+Average: 15.17
+Skipped count: 3
