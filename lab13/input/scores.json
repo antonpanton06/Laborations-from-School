@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Emma",
+    "math": 92,
+    "english": 85,
+    "science": 90
+  },
+  {
+    "id": 2,
+    "name": "Liam",
+    "math": 85,
+    "english": 78,
+    "science": 88
+  },
+  {
+    "id": 3,
+    "name": "Olivia",
+    "math": 78,
+    "english": 94,
+    "science": 82
+  },
+  {
+    "id": 4,
+    "name": "Noah",
+    "math": 96,
+    "english": 89,
+    "science": 95
+  },
+  {
+    "id": 5,
+    "name": "Ava",
+    "math": 88,
+    "english": 91,
+    "science": 86
+  }
+]
