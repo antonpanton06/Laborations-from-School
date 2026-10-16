@@ -16,8 +16,6 @@ def calculate_totals_csv(input_path, output_path):
                     + int(student["english"])
                     + int(student["science"]))
 
-                print(f"{student['name']}: {total}")
-
                 writer.writerow({"id": student["id"],
                     "name": student["name"],
                     "total": total})
