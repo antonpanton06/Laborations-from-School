@@ -19,7 +19,7 @@ elif average < 1:
     performance = "Low"
 elif average <= 2:
     performance = "Moderate"
-else average > 2:
+else:
     performance = "High"
 
 

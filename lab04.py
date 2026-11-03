@@ -1,11 +1,11 @@
 # Northline Mobility needs your help.
 # The task: Create a Python program that asks for the passenger's age andwhether they are a student, then determines their fare category and price.
 
-age = input("Age: ")
+age = int(input("Age: "))
 student = input("Student? ")
 company = "Northline Mobility"
 # Process the values here
-age = int(age)
+
 # Determine the fare here
 if age < 0 or age > 120:
     fare_category = "Invalid age"
