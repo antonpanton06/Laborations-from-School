@@ -1,0 +1,24 @@
+{
+    "receipts": [
+        {
+            "id": 1,
+            "shop": "Coffee Corner",
+            "text": "Coffee 45.99 SEK; Sandwich 68.00 SEK; Snack 5.00 SEK"
+        },
+        {
+            "id": 2,
+            "shop": "Campus Store",
+            "text": "Notebook 25,50 SEK; Pens 19.90 SEK; Test score 3.14"
+        },
+        {
+            "id": 3,
+            "shop": "Grocery Market",
+            "text": "Milk 16.90 SEK; Bread 28.50 SEK; Apples 32.00 SEK"
+        },
+        {
+            "id": 4,
+            "shop": "Bookshop",
+            "text": "Python book 249.00 SEK; Old price 299.00; Rating 4.75"
+        }
+    ]
+}

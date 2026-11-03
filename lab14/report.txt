@@ -1,0 +1,28 @@
+Receipt ID: 1
+Shop: Coffee Corner
+Extracted amounts: 45.99 SEK, 68.00 SEK, 5.00 SEK
+Total: 118.99 SEK
+Average: 39.66 SEK
+
+Receipt ID: 2
+Shop: Campus Store
+Extracted amounts: 25.50 SEK, 19.90 SEK
+Total: 45.40 SEK
+Average: 22.70 SEK
+
+Receipt ID: 3
+Shop: Grocery Market
+Extracted amounts: 16.90 SEK, 28.50 SEK, 32.00 SEK
+Total: 77.40 SEK
+Average: 25.80 SEK
+
+Receipt ID: 4
+Shop: Bookshop
+Extracted amounts: 249.00 SEK
+Total: 249.00 SEK
+Average: 249.00 SEK
+
+OVERALL SUMMARY
+Number of amounts: 9
+Total: 490.79 SEK
+Average: 54.53 SEK
